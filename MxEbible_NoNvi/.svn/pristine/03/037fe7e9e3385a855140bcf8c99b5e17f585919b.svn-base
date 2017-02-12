@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="bible_version">
+        <item>NIV</item>
+        <item>NKJV</item>
+        <!-- 
+        <item>NVI</item>
+         -->
+    </string-array>
+    <string-array name="type_query">
+        <item>Verse</item>
+        <item>Chapter</item>
+    </string-array>
+
+</resources>

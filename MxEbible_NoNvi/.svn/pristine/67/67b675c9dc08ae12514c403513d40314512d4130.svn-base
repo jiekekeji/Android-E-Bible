@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/light_gray"
+    android:orientation="vertical" >
+
+    <!-- 顶部三个tab切换 -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/mynote_ll"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="100"
+            android:orientation="vertical" >
+
+            <TextView
+                
+                android:id="@+id/mynote_tv"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="100"
+                android:gravity="center"
+                android:text="My Note" />
+
+            <View
+                android:id="@+id/mynote_vw"
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/green" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/highlights_ll"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="100"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/highlights_tv"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="100"
+                android:gravity="center"
+                android:text="Highlights" />
+
+            <View
+                android:id="@+id/highlights_vv"
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/green"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/bookmark_ll"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="100"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/bookmark_tv"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="100"
+                android:gravity="center"
+                android:text="BookMark" />
+
+            <View
+                android:id="@+id/bookmark_vw"
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/green"
+                android:visibility="gone" />
+        </LinearLayout>
+    </LinearLayout>
+    <!-- 分割线 -->
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/white" />
+
+    <!-- 可切换的三个fragment -->
+
+    <RelativeLayout
+        android:id="@+id/fr_contain"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="100" >
+
+        <RelativeLayout
+            android:id="@+id/noteFragment_rl"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone" >
+
+            <fragment
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                class="com.papa.bible.fr.NoteFragment"
+                android:tag="NoteFragment" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/highLinghtsFragment_rl"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone" >
+
+            <fragment
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                class="com.papa.bible.fr.HighLinghtsFragment"
+                android:tag="HighLinghtsFragment" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/bookMarkFragment_rl"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone" >
+
+            <fragment
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                class="com.papa.bible.fr.BookMarkFragment"
+                android:tag="BookMarkFragment" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

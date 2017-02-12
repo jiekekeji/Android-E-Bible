@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/ic_font_selected" android:state_pressed="true"/>
+    <!-- pressed 按下时 -->
+    <item android:drawable="@drawable/ic_font_selected" android:state_focused="true"/>
+    <!-- focused 聚焦时 -->
+    <item android:drawable="@drawable/back_play"/>
+    <!-- default 正常情况下 -->
+
+</selector>

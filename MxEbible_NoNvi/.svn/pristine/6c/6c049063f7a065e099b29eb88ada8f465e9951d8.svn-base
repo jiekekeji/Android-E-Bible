@@ -1,0 +1,146 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical"
+    tools:context="com.papa.bible.MainActivity" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/blue"
+        android:contentDescription="顶部导航栏" >
+
+        <ImageButton
+            android:id="@+id/back_home_btn"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:background="@null"
+            android:src="@drawable/icon_back" />
+
+        <TextView
+            android:id="@+id/version_name_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/back_home_btn"
+            android:contentDescription="译本名称"
+            android:gravity="center"
+            android:textColor="@android:color/white" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_centerInParent="true" >
+
+            <ImageButton
+                android:id="@+id/pre_chapter_btn"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:background="@null"
+                android:contentDescription="上一张按钮"
+                android:src="@drawable/pre_btn" />
+
+            <TextView
+                android:id="@+id/chapter_title_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:contentDescription="章名称"
+                android:gravity="center"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:text="Genesis 1" />
+
+            <ImageButton
+                android:id="@+id/next_chapter_btn"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:background="@null"
+                android:contentDescription="下一章按钮"
+                android:src="@drawable/next_btn" />
+        </LinearLayout>
+
+        <ImageButton
+            android:id="@+id/font_size_iv"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:layout_alignParentRight="true"
+            android:background="@null"
+            android:contentDescription="字体大小设置"
+            android:src="@drawable/icon_font_size" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:contentDescription="内容显示区域" >
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+        </android.support.v4.view.ViewPager>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/drag_icon"
+            android:contentDescription="可拖动的标志" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/blue"
+        android:contentDescription="底部控制条" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="50dp" >
+
+            <ImageButton
+                android:id="@+id/back_play_ibtn"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:background="@null"
+                android:src="@drawable/selector_back" />
+
+            <ImageButton
+                android:id="@+id/start_play_ibtn"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="30dp"
+                android:background="@null"
+                android:src="@drawable/start_play" />
+
+            <ImageButton
+                android:id="@+id/front_play_ibtn"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="30dp"
+                android:background="@null"
+                android:src="@drawable/selector_forword" />
+        </LinearLayout>
+
+        <ImageButton
+            android:id="@+id/brightness_ibtn"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true"
+            android:background="@null"
+            android:src="@drawable/sun"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <RelativeLayout
+        android:layout_width="60dp"
+        android:layout_height="100dp" >
+
+        <ImageView
+            android:id="@+id/color_iv"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerInParent="true" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="100"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/title_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="章节标题"
+            android:paddingBottom="1dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="1dp"
+            android:text="章节标题"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/note_tv"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="100"
+            android:contentDescription="笔记内容"
+            android:ellipsize="end"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp" />
+
+        <TextView
+            android:id="@+id/note_time_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="章节标题"
+            android:gravity="right"
+            android:paddingBottom="1dp"
+            android:paddingRight="10dp"
+            android:paddingTop="1dp" />
+    </LinearLayout>
+
+</LinearLayout>

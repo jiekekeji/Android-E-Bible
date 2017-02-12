@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/click_to_dismiss"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/popup_bg"
+        android:paddingLeft="25dp"
+        android:paddingRight="25dp" >
+
+        <LinearLayout
+            android:id="@+id/popup_anima"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@drawable/shape_round_rectangle_wh"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/delete_title_tv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/shape_round_title"
+                android:gravity="center_vertical"
+                android:padding="10dp"
+                android:text="Delete" />
+
+            <TextView
+                android:id="@+id/delete_content_tv"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:gravity="center"
+                android:text="Delete" />
+
+            <TextView
+                android:id="@+id/delete_btn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/shape_round_title_bom"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="Confirm" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

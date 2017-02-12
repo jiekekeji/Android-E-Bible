@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/click_to_dismiss"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/popup_bg"
+        android:paddingLeft="25dp"
+        android:paddingRight="25dp" >
+
+        <LinearLayout
+            android:id="@+id/popup_anima"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@drawable/shape_round_rectangle_wh"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/title_tv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/shape_round_title"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="Edit Note" />
+
+            <EditText
+                android:id="@+id/note_edit_et"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="@drawable/shape_round_rectangle_wh"
+                android:gravity="top|left"
+                android:lineSpacingExtra="8dp"
+                android:lineSpacingMultiplier="1.5"
+                android:maxLength="100"
+                android:maxLines="10"
+                android:orientation="vertical"
+                android:padding="15dp"
+                android:textSize="20sp" >
+            </EditText>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/delete_btn"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="100"
+                    android:background="@drawable/shape_round_left_btm"
+                    android:text="Delete" />
+
+                <Button
+                    android:id="@+id/done_btn"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="100"
+                    android:background="@drawable/shape_round_right_btm"
+                    android:text="Done" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>
