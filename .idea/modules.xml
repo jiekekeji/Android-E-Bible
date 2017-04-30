@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasePopLib/BasePopLib.iml" filepath="$PROJECT_DIR$/BasePopLib/BasePopLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MxEbible_NoNvi/MxEbible_NoNvi.iml" filepath="$PROJECT_DIR$/MxEbible_NoNvi/MxEbible_NoNvi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhotoViewLib/PhotoViewLib.iml" filepath="$PROJECT_DIR$/PhotoViewLib/PhotoViewLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PtrfLibrary/PtrfLibrary.iml" filepath="$PROJECT_DIR$/PtrfLibrary/PtrfLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WheelViewLib/WheelViewLib.iml" filepath="$PROJECT_DIR$/WheelViewLib/WheelViewLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-e-bible-no.iml" filepath="$PROJECT_DIR$/android-e-bible-no.iml" />
+    </modules>
+  </component>
+</project>

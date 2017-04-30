@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable/shape_round_left__right.xml",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable/shape_round_left__right.xml"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable/shape_round_right_btm.xml",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable/shape_round_right_btm.xml"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable/shape_round_left_btm.xml",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable/shape_round_left_btm.xml"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable/selector_item_type.xml",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable/selector_item_type.xml"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable/shape_black_line.xml",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable/shape_black_line.xml"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable/selector_forword.xml",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable/selector_forword.xml"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable/selector_back.xml",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable/selector_back.xml"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable/shape_round_title_bom.xml",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable/shape_round_title_bom.xml"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable/indicator_bg_bottom.xml",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/exploded-aar/android-e-bible-no/PtrfLibrary/unspecified/res/drawable/indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable/shape_round_rectangle_wh.xml",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable/shape_round_rectangle_wh.xml"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable/shape_round_title.xml",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable/shape_round_title.xml"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable/indicator_bg_top.xml",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/exploded-aar/android-e-bible-no/PtrfLibrary/unspecified/res/drawable/indicator_bg_top.xml"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable/shape_round_rectangle_et.xml",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable/shape_round_rectangle_et.xml"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable/shape_round_rectangle.xml",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable/shape_round_rectangle.xml"
+    }
+]

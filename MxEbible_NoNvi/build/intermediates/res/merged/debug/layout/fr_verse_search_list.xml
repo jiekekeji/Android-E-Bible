@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/blue" >
+
+        <ImageButton
+            android:id="@+id/back_home_btn"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:background="@null"
+            android:src="@drawable/icon_back" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="Verse Search"
+            android:textColor="@color/white" />
+
+        <Spinner
+            android:id="@+id/spinner"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true"
+            android:entries="@array/bible_version"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+    <!-- 搜索区域 -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/light_gray2"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/search_word_et"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_weight="100"
+            android:background="@drawable/shape_round_rectangle_et"
+            android:imeOptions="actionSearch"
+            android:paddingLeft="10dp"
+            android:singleLine="true"
+            android:textSize="18sp" />
+
+        <RadioGroup
+            android:id="@+id/type_spinner"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5dp"
+            android:orientation="horizontal"
+            android:padding="5dp" >
+
+            <RadioButton
+                android:id="@+id/rb_chapter"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_marginRight="5dp"
+                android:padding="5dp"
+                android:text="Chapter" />
+
+            <RadioButton
+                android:id="@+id/rb_verse"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_marginLeft="5dp"
+                android:padding="5dp"
+                android:text="Keyword" />
+        </RadioGroup>
+
+        <ImageButton
+            android:id="@+id/search_ivbtn"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/note_search" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <com.handmark.pulltorefresh.library.PullToRefreshListView
+            android:id="@+id/mynote_lv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+        </com.handmark.pulltorefresh.library.PullToRefreshListView>
+
+        <RelativeLayout
+            android:id="@+id/bar_rl"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone" >
+
+            <ProgressBar
+                android:id="@+id/progressBar1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:background="@color/barbg" />
+        </RelativeLayout>
+    </FrameLayout>
+
+</LinearLayout>

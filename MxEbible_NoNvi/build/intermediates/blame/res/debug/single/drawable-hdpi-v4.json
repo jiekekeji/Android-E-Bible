@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_book_mark.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/icon_book_mark.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_search.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/icon_search.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/pre_btn.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/pre_btn.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/nvi_logo.jpg",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/nvi_logo.jpg"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/intro_delete.jpg",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/intro_delete.jpg"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/next_btn.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/next_btn.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/note_search.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/note_search.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/about_us.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/about_us.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_bakc_selected.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/ic_bakc_selected.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/back_play.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/back_play.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/book_version_bg.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/book_version_bg.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_highlights.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/icon_highlights.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/divider.jpg",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/divider.jpg"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_add_note.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/ic_add_note.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/title_bg.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/title_bg.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/book_mark.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/book_mark.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/intro_read.jpg",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/intro_read.jpg"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/start_play.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/start_play.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/sun.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/sun.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_bookmark.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/icon_bookmark.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/intro_select.jpg",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/intro_select.jpg"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/default_ptr_rotate.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/exploded-aar/android-e-bible-no/PtrfLibrary/unspecified/res/drawable-hdpi-v4/default_ptr_rotate.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/start_pause.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/start_pause.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/about_us_msg.jpeg",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/about_us_msg.jpeg"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/indicator_arrow.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/exploded-aar/android-e-bible-no/PtrfLibrary/unspecified/res/drawable-hdpi-v4/indicator_arrow.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/abcd.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/abcd.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_font_size.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/icon_font_size.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/front_play.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/front_play.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_underline.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/icon_underline.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_font_selected.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/ic_font_selected.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_help_center.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/ic_help_center.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/book_read.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/book_read.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/default_ptr_flip.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/exploded-aar/android-e-bible-no/PtrfLibrary/unspecified/res/drawable-hdpi-v4/default_ptr_flip.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/intro_do.jpg",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/intro_do.jpg"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/verse_search.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/verse_search.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/niv_logo.jpg",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/niv_logo.jpg"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_back.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/icon_back.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/yueliang.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/yueliang.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/drawer_shadow.9.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/intro_query.jpg",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/intro_query.jpg"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/nkjv_logo.jpg",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/nkjv_logo.jpg"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/intro_main.jpg",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/intro_main.jpg"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/book_note.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/book_note.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_read_note.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/icon_read_note.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/home.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/home.png"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/res/merged/debug/drawable-hdpi-v4/drag_icon.png",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/res/drawable-hdpi/drag_icon.png"
+    }
+]

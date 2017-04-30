@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a"
+    api-level="18"
+    density="xhdpi"
+    format="7"
+    timestamp="1493523704593488000" >
+
+    <task
+        name="javac"
+        duration="738" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1837" />
+    <task
+        name="verifier"
+        duration="196" />
+
+    <artifact
+        location="/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/outputs/apk/MxEbible_NoNvi-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="1493523704593488000" >
+        <artifact
+            location="/Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/outputs/apk/MxEbible_NoNvi-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

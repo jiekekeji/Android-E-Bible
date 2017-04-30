@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/PtrfLibrary/build/intermediates/res/merged/androidTest/debug/anim/slide_in_from_bottom.xml",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/PtrfLibrary/build/intermediates/bundles/debug/res/anim/slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/PtrfLibrary/build/intermediates/res/merged/androidTest/debug/anim/slide_out_to_bottom.xml",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/PtrfLibrary/build/intermediates/bundles/debug/res/anim/slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/PtrfLibrary/build/intermediates/res/merged/androidTest/debug/anim/slide_in_from_top.xml",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/PtrfLibrary/build/intermediates/bundles/debug/res/anim/slide_in_from_top.xml"
+    },
+    {
+        "merged": "/Users/jack/workspace/Android/android-e-bible-no/PtrfLibrary/build/intermediates/res/merged/androidTest/debug/anim/slide_out_to_top.xml",
+        "source": "/Users/jack/workspace/Android/android-e-bible-no/PtrfLibrary/build/intermediates/bundles/debug/res/anim/slide_out_to_top.xml"
+    }
+]

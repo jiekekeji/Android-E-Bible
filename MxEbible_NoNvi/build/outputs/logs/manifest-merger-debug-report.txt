@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:2:1-61:12
+	xmlns:android
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:3:5-29
+	android:versionName
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml
+		INJECTED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml
+		INJECTED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:8:5-73
+	android:name
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:8:22-70
+uses-sdk
+ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:10:5-12:41
+MERGED from [android-e-bible-no:PhotoViewLib:unspecified] /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/exploded-aar/android-e-bible-no/PhotoViewLib/unspecified/AndroidManifest.xml:5:5-44
+MERGED from [android-e-bible-no:WheelViewLib:unspecified] /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/exploded-aar/android-e-bible-no/WheelViewLib/unspecified/AndroidManifest.xml:5:5-7:41
+MERGED from [android-e-bible-no:PtrfLibrary:unspecified] /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/exploded-aar/android-e-bible-no/PtrfLibrary/unspecified/AndroidManifest.xml:7:5-43
+	android:targetSdkVersion
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:12:9-38
+	android:minSdkVersion
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:11:9-35
+application
+ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:14:5-59:19
+MERGED from [android-e-bible-no:PtrfLibrary:unspecified] /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/build/intermediates/exploded-aar/android-e-bible-no/PtrfLibrary/unspecified/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:16:9-45
+	android:theme
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:18:9-42
+activity#com.papa.bible.MainActivity
+ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:19:9-30:20
+	android:label
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:22:13-45
+	android:configChanges
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:21:13-74
+	android:name
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:20:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.HOME+android.intent.category.LAUNCHER
+ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:23:13-29:29
+action#android.intent.action.MAIN
+ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:24:25-66
+category#android.intent.category.HOME
+ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:26:17-73
+	android:name
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:26:27-70
+category#android.intent.category.DEFAULT
+ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:27:27-73
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:28:27-74
+activity#com.papa.bible.MyNoteActivity
+ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:31:9-34:20
+	android:configChanges
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:33:13-74
+	android:name
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:32:13-43
+activity#com.papa.bible.BookMarkActivity
+ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:35:9-38:20
+	android:configChanges
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:37:13-74
+	android:name
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:36:13-45
+activity#com.papa.bible.HighLightsActivity
+ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:39:9-42:20
+	android:configChanges
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:41:13-74
+	android:name
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:40:13-47
+activity#com.papa.bible.ContentActivity
+ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:43:9-46:20
+	android:configChanges
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:45:13-74
+	android:name
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:44:13-44
+activity#com.papa.bible.AboutUsActivity
+ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:47:9-50:20
+	android:configChanges
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:49:13-74
+	android:name
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:48:13-44
+activity#com.papa.bible.VerseSearchActivity
+ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:51:9-54:20
+	android:configChanges
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:53:13-74
+	android:name
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:52:13-48
+activity#com.papa.bible.HelpCenterActivity
+ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:55:9-58:20
+	android:configChanges
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:57:13-74
+	android:name
+		ADDED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:56:13-47
+android:uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:2:1-61:12 reason: razerdp.library has a targetSdkVersion < 4
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/jack/workspace/Android/android-e-bible-no/MxEbible_NoNvi/AndroidManifest.xml:2:1-61:12 reason: razerdp.library requested WRITE_EXTERNAL_STORAGE
